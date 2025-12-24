@@ -24,7 +24,7 @@ The dataset contains ~20,000 historical loan application records with 36 feature
 * **Demographics:** Age, marital status, dependents.
 * **Financials:** Income, employment details, debt-to-income ratios.
 * **Credit Behavior:** Past defaults, credit scores, bankruptcy history.
-* **Loan Characteristics:** Amount, duration, and purpose.
+* **Loan Characteristics:** Amount, duration, and purpose
 
 ---
 
